@@ -1,6 +1,7 @@
 # supervisord-spike
 `프로세스`의 감시 기능과 관리 기능을 갖는 Superviord를 활용해 보자.
 
+![purple-octopus-tattoo-design](https://user-images.githubusercontent.com/87116570/125969727-6640736c-7430-4bf3-bdb0-cdc0b033471b.jpeg)
 
 ## Acceptance Critieria 🧑‍⚖️
   - Supervisord 설정 정보를 이해한다.
