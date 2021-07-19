@@ -1,9 +1,11 @@
 # supervisord-spike
 `프로세스`의 감시 기능과 관리 기능을 갖는 Superviord를 활용해 보자.
 
+<img src="https://user-images.githubusercontent.com/87116570/125969727-6640736c-7430-4bf3-bdb0-cdc0b033471b.jpeg" width="300">
 
 ## Acceptance Critieria 🧑‍⚖️
-  - 
+  - Supervisord 설정 정보를 이해한다.
+  - 로컬에서 해당 테스트를 할 수 있고 확인할 수 있다.
 
 
 
